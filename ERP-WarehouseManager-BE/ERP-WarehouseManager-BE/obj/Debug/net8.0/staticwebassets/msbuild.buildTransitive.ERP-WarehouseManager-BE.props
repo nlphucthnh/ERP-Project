@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ERP-WarehouseManager-BE.props" />
-</Project>
