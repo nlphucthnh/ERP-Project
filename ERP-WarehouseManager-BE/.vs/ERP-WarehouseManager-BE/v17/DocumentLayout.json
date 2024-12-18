@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|d:\\study\\project_person\\warehousemanagerproject\\erp-project\\erp-warehousemanager-be\\erp-warehousemanager-be\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|solutionrelative:erp-warehousemanager-be\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|d:\\study\\project_person\\warehousemanagerproject\\erp-project\\erp-warehousemanager-be\\erp-warehousemanager-be\\services\\implements\\mat\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|solutionrelative:erp-warehousemanager-be\\services\\implements\\mat\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|d:\\study\\project_person\\warehousemanagerproject\\erp-project\\erp-warehousemanager-be\\erp-warehousemanager-be\\services\\interfaces\\mat\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|solutionrelative:erp-warehousemanager-be\\services\\interfaces\\mat\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|d:\\study\\project_person\\warehousemanagerproject\\erp-project\\erp-warehousemanager-be\\erp-warehousemanager-be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|solutionrelative:erp-warehousemanager-be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|d:\\study\\project_person\\warehousemanagerproject\\erp-project\\erp-warehousemanager-be\\erp-warehousemanager-be\\departmentres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|solutionrelative:erp-warehousemanager-be\\departmentres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|d:\\study\\project_person\\warehousemanagerproject\\erp-project\\erp-warehousemanager-be\\erp-warehousemanager-be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|solutionrelative:erp-warehousemanager-be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|d:\\study\\project_person\\warehousemanagerproject\\erp-project\\erp-warehousemanager-be\\erp-warehousemanager-be\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|solutionrelative:erp-warehousemanager-be\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|d:\\study\\project_person\\warehousemanagerproject\\erp-project\\erp-warehousemanager-be\\erp-warehousemanager-be\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC01300-D877-465F-BBEA-C07B903C75FC}|ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE.csproj|solutionrelative:erp-warehousemanager-be\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 379,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +55,106 @@
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\appsettings.json",
+              "RelativeDocumentMoniker": "ERP-WarehouseManager-BE\\appsettings.json",
+              "ToolTip": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\appsettings.json",
+              "RelativeToolTip": "ERP-WarehouseManager-BE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T02:51:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Services\\Implements\\MAT\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "ERP-WarehouseManager-BE\\Services\\Implements\\MAT\\DepartmentService.cs",
+              "ToolTip": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Services\\Implements\\MAT\\DepartmentService.cs",
+              "RelativeToolTip": "ERP-WarehouseManager-BE\\Services\\Implements\\MAT\\DepartmentService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAIQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:24:50.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Services\\Interfaces\\MAT\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "ERP-WarehouseManager-BE\\Services\\Interfaces\\MAT\\IDepartmentService.cs",
+              "ToolTip": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Services\\Interfaces\\MAT\\IDepartmentService.cs",
+              "RelativeToolTip": "ERP-WarehouseManager-BE\\Services\\Interfaces\\MAT\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:26:55.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "ERP-WarehouseManager-BE\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ERP-WarehouseManager-BE\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:23:09.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentRes.cs",
+              "DocumentMoniker": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\DepartmentRes.cs",
+              "RelativeDocumentMoniker": "ERP-WarehouseManager-BE\\DepartmentRes.cs",
+              "ToolTip": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\DepartmentRes.cs",
+              "RelativeToolTip": "ERP-WarehouseManager-BE\\DepartmentRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:20:41.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ERP-WarehouseManager-BE\\WeatherForecast.cs",
+              "ToolTip": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\WeatherForecast.cs",
+              "RelativeToolTip": "ERP-WarehouseManager-BE\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:56:13.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Program.cs",
+              "RelativeDocumentMoniker": "ERP-WarehouseManager-BE\\Program.cs",
+              "ToolTip": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Program.cs",
+              "RelativeToolTip": "ERP-WarehouseManager-BE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:56:20.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ERP-WarehouseManager-BE\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Study\\PROJECT_PERSON\\WarehouseManagerProject\\ERP-Project\\ERP-WarehouseManager-BE\\ERP-WarehouseManager-BE\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ERP-WarehouseManager-BE\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:22:44.318Z"
             }
           ]
         },
